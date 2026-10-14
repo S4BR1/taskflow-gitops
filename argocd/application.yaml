@@ -9,7 +9,7 @@ spec:
   project: default
   source:
     repoURL: https://github.com/mateplo/taskflow-gitops.git
-    targetRevision: main
+    targetRevision: main_sabri
     path: apps/taskflow
   destination:
     server: https://kubernetes.default.svc
